@@ -47,18 +47,18 @@ To ensure correctness, the app was tested with different cases:
   <img width="1308" height="622" alt="Screenshot 2026-04-09 at 7 11 42 PM" src="https://github.com/user-attachments/assets/256c92c0-9232-447f-b4cc-6c3e128967f0" />
 ---
 
----
 
-## 🔗 Hugging Face Link
 
-👉 https://huggingface.co/spaces/remzzz/Bubble-sort
+## Hugging Face Link
 
----
+ https://huggingface.co/spaces/remzzz/Bubble-sort
 
-## 👤 Author & Acknowledgment
+
+
+## Author & Acknowledgment
 
 - Name: Reme Oko-oboh  
-- Course: CISC 121  
+- Class: CISC 121  
 - Tools Used: Pycharm, Gradio, Gemini  
  
 
